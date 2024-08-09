@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk membangun dan melatih model deep learning menggunakan TensorFlow untuk mengklasifikasi gambar menjadi tiga kategori: batu, gunting, dan kertas. Model ini dapat digunakan untuk berbagai aplikasi, seperti permainan interaktif atau sistem pengenalan gestur.
 
 ## Visualisasi Dataset
-![Contoh gambar dataset](/image/visualisasi.png)
+![Contoh gambar dataset](/images/visualisasi.png)
 *Gambar di atas menunjukkan contoh gambar dari ketiga kelas dalam dataset.*
 
 ## Struktur Proyek
